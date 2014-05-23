@@ -1,0 +1,94 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		5BCDD4B9BB452569E8CB7387 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = file.md; path = README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		5BCDD815B6EC0D98AC270698 /* Engine */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Engine;
+			sourceTree = "<group>";
+		};
+		5BCDD952725F8BF77B4A7422 /* Server */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Server;
+			sourceTree = "<group>";
+		};
+		5BCDDCEC7486EF90B9930572 = {
+			isa = PBXGroup;
+			children = (
+				5BCDDE5201710738F6D604DD /* Products */,
+				5BCDD815B6EC0D98AC270698 /* Engine */,
+				5BCDD952725F8BF77B4A7422 /* Server */,
+				5BCDD4B9BB452569E8CB7387 /* README.md */,
+			);
+			sourceTree = "<group>";
+		};
+		5BCDDE5201710738F6D604DD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		5BCDD696120A5356222B87BB /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 5BCDDFA1D2ABD66890B396E1 /* Build configuration list for PBXProject "gods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5BCDDCEC7486EF90B9930572;
+			productRefGroup = 5BCDDE5201710738F6D604DD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		5BCDD4608447ADC33C338DEE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		5BCDDAC19C13F1E27114FB6D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5BCDDFA1D2ABD66890B396E1 /* Build configuration list for PBXProject "gods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5BCDDAC19C13F1E27114FB6D /* Release */,
+				5BCDD4608447ADC33C338DEE /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5BCDD696120A5356222B87BB /* Project object */;
+}
