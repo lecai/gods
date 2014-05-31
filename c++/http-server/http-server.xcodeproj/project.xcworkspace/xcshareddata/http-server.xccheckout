@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F8220E92-7188-4944-852C-1B113EEC49B5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>http-server</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BCB5CDA0-D802-4216-BF18-153329067F58</key>
+		<string>https://github.com/lecai/gods.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>c++/http-server/http-server.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BCB5CDA0-D802-4216-BF18-153329067F58</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lecai/gods.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BCB5CDA0-D802-4216-BF18-153329067F58</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BCB5CDA0-D802-4216-BF18-153329067F58</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gods</string>
+		</dict>
+	</array>
+</dict>
+</plist>

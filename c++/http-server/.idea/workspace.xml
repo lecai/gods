@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91b67859-a738-41a5-8b05-392c273800a4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server.xcodeproj/project.xcworkspace/xcuserdata/eacan.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gods/gods/libs/engine/system/GCircularQueue.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gods/gods/libs/engine/logger/GLogger.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gods/gods/libs/engine/logger/GLogger.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gods/gods/libs/engine/system/GMiniDump.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gods/gods/libs/engine/system/GMiniDump.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gods/gods/libs/engine/network/GPacket.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gods/gods/libs/engine/network/GPacket.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gods/gods/libs/engine/system/GSingleton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/aix.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/android-ifaddrs.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/async.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/async.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/atomic-ops.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/atomicops-inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/build.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/configuration/configuration.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/configuration/configuration.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/connection_consumer.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/connection_consumer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/connection_dispatcher.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/connection_dispatcher.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/core.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/core.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/darwin-proctitle.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/darwin.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/dl.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/dl.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/error.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/freebsd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/fs-event.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/fs-poll.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/fs.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/fs.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/fsevents.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/getaddrinfo.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/getaddrinfo.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/getnameinfo.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/getnameinfo.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gods/gods.xcodeproj/xcuserdata/eacan.xcuserdatad/xcschemes/gods.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/handle-inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/handle.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/include/haywire.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/heap-inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server.xcodeproj/xcuserdata/eacan.xcuserdatad/xcschemes/http-server.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/http_connection.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/http_parser.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/http_parser.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/http_request.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/http_request.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/http_response.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/http_response.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/http_response_cache.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/http_response_cache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/http_server.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/http_server.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/http_server.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/hw_string.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/hw_string.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/inet.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/configuration/ini.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/configuration/ini.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/internal.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/internal.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/khash.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/kqueue.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/linux-core.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/linux-inotify.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/linux-syscalls.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/linux-syscalls.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/loop-watcher.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/loop-watcher.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/loop.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/netbsd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/openbsd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/pipe.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/pipe.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/poll.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/poll.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/process-stdio.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/process.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/process.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/proctitle.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/pthread-fixes.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/queue.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/req-inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/req.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/route_compare_method.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/route_compare_method.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/server.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/server_stats.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/src/haywire/server_stats.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/signal.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/signal.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/spinlock.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/stream-inl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/stream.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/stream.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/sunos.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/tcp.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/tcp.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/thread.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/thread.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gods/gods/libs/engine/thread/thread.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gods/gods/libs/engine/thread/thread.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/threadpool.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/threadpool.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/timer.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/timer.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/tty.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/tty.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/udp.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/udp.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/util.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/uv-common.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/uv-common.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/unix/uv-dtrace.d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/version.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/winapi.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/winapi.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/winsock.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server/lib/libuv/src/win/winsock.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http-server.xcodeproj/xcuserdata/eacan.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../gods/Engine/GNetbase/GCantCopy.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../gods/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../gods/gods/GSystem/GCircularQueue.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../gods/gods/GSystem/GCircularQueue.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../gods/gods/gods.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../gods/gods/main.cpp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gods/.idea/misc.xml" afterPath="$PROJECT_DIR$/../gods/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../java/gods/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../java/gods/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gods/gods.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/../gods/gods.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gods/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../gods/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../java/gods/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../../java/gods/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gods/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../gods/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../java/gods/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../java/gods/.idea/workspace.xml" />
+    </list>
+    <ignored path="http-server.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="macos_x86_64" />
+  <component name="FavoritesManager">
+    <favorites_list name="http-server" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="server.conf" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/http-server/server.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="18" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.c" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/http-server/main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="27" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.8677686" vertical-offset="465" max-vertical-offset="1050">
+              <folding>
+                <element signature="e#122#140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.sh" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/http-server/build.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/http-server/main.cpp" />
+        <option value="$PROJECT_DIR$/http-server/server.conf" />
+        <option value="$PROJECT_DIR$/http-server/main.c" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1400" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Cidr.FilesView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http-server" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Products" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http-server" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http-server" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../projects/aha" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="http-server" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.http-server">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PROJECT_NAME="http-server" TARGET_NAME="http-server" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="http-server" RUN_TARGET_NAME="http-server" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PROJECT_NAME="http-server" TARGET_NAME="http-server" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="http-server" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="http-server" PROJECT_NAME="http-server" TARGET_NAME="http-server" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="http-server" RUN_TARGET_NAME="http-server" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.http-server" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91b67859-a738-41a5-8b05-392c273800a4" name="Default" comment="" />
+      <created>1401558480690</created>
+      <updated>1401558480690</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1400" height="860" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32896462" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981844" sideWeight="0.6710354" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/http-server/include/haywire.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="12" selection-start="648" selection-end="648" vertical-scroll-proportion="0.33333334" vertical-offset="145" max-vertical-offset="2820">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http-server/src/haywire/http_request.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="291" column="5" selection-start="8651" selection-end="8651" vertical-scroll-proportion="0.34917355" vertical-offset="4001" max-vertical-offset="4485">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http-server/build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http-server/server.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="18" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http-server/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="27" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.8677686" vertical-offset="465" max-vertical-offset="1050">
+          <folding>
+            <element signature="e#122#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
