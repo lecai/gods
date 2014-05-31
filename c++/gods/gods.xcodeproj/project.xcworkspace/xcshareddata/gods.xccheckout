@@ -5,19 +5,19 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>DF313AC3-D75A-4F80-A603-7694E5E36673</string>
+	<string>9BB6775C-0EBE-4E01-B24C-AE2DD7287D1A</string>
 	<key>IDESourceControlProjectName</key>
 	<string>gods</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>57E4FAF8-EB8E-4F56-A213-9D55F675D113</key>
+		<key>BCB5CDA0-D802-4216-BF18-153329067F58</key>
 		<string>https://github.com/lecai/gods.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>c++/gods/gods.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>57E4FAF8-EB8E-4F56-A213-9D55F675D113</key>
+		<key>BCB5CDA0-D802-4216-BF18-153329067F58</key>
 		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>57E4FAF8-EB8E-4F56-A213-9D55F675D113</string>
+	<string>BCB5CDA0-D802-4216-BF18-153329067F58</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>57E4FAF8-EB8E-4F56-A213-9D55F675D113</string>
+			<string>BCB5CDA0-D802-4216-BF18-153329067F58</string>
 			<key>IDESourceControlWCCName</key>
 			<string>gods</string>
 		</dict>
