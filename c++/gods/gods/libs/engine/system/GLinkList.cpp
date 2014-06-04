@@ -75,4 +75,98 @@ inline void GLinkList::insertBefore(GLinkObject *baseObject, GLinkObject *linkOb
     }
 }
 
+inline void GLinkList::insertAfter(GLinkObject *baseObject, GLinkObject *linkObject) {
+    if (!baseObject)
+    {
+        append(baseObject);
+    } else{
+        GLinkObject *next = baseObject->getNext();
+        linkObject->setPrev(baseObject);
+        linkObject->setNext(next);
+        baseObject->setNext(linkObject);
+        if (!next)
+        {
+            _tail = linkObject;
+        } else{
+            next->setPrev(linkObject);
+        }
+
+        ++_count;
+        if (_count > _maxCount)
+        {
+            _maxCount = _count;
+        }
+    }
+}
+
+inline void GLinkList::remove(GLinkObject *linkObject) {
+    GLinkObject *prev = linkObject->getPrev();
+    GLinkObject *next = linkObject->getNext();
+
+    if (next)
+    {
+        next->setPrev(prev);
+    } else{
+        _tail = prev;
+    }
+
+    if (prev)
+    {
+        prev->setNext(next);
+    } else{
+        _head = next;
+    }
+
+    linkObject->setPrev(NULL);
+    linkObject->setNext(NULL);
+
+    --_count;
+}
+
+inline void GLinkList::removeAll() {
+    while (_count > 0)
+    {
+        remove(_head);
+    }
+}
+
+inline bool GLinkList::find(GLinkObject *baseObject) {
+    GLinkObject *object = _head;
+    while (object)
+    {
+        if (object == baseObject)
+        {
+            return true;
+        }
+        object = object->getNext();
+    }
+    return true;
+}
+
+inline GLinkObject* GLinkList::popFront() {
+    GLinkObject *linkObject = _head;
+    if (linkObject)
+    {
+        remove(linkObject);
+    }
+    return linkObject;
+}
+
+inline GLinkObject* GLinkList::popBack() {
+    GLinkObject *linkObject = _tail;
+    if (linkObject)
+    {
+        remove(linkObject);
+    }
+    return linkObject;
+}
+
+inline GLinkObject* GLinkList::pop(bool front) {
+    return front? popFront(): popBack();
+}
+
+inline void GLinkList::push(GLinkObject *linkObject, bool front) {
+    front ? prePrepend(linkObject):append(linkObject);
+}
+
 
