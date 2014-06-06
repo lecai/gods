@@ -13,6 +13,15 @@
 class GMiniDump {
 public:
     GMiniDump();
+    virtual ~GMiniDump();
+
+public:
+    static bool start();
+    static void stop();
+    static void snapshot();
+
+private:
+    static char _dumpPath[]
 
 };
 

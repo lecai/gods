@@ -2,25 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baba079a-d423-46e2-9462-d07889ba55bd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/system/GCircularQueue.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/system/GLinkList.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/system/GLinkList.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/system/GQueue.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/system/GRandomGenerator.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/system/GRandomGenerator.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/database/GSqlBase.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/database/GSqlBase.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/system/GUtils.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/system/GUtils.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/database/README.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../GCircularQueue.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../GCircularQueue.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../GRandomGenerator.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../GRandomGenerator.h" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http.xcodeproj/project.xcworkspace/xcuserdata/eacan.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/lib/libuv/libuv.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/GBaseType.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/system/GError.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/system/GError.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/system/GErrorCodes.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/system/GException.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/shared/LPacket.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gods/libs/engine/shared/LPacket.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/lib/libuv/include/android-ifaddrs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/lib/libuv/include/haywire.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/src/haywire/haywire.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/http.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http.xcodeproj/xcuserdata/eacan.xcuserdatad/xcschemes/http.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/src/haywire/khash.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/lib/libuv/include/pthread-fixes.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/src/haywire/server_stats.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/src/haywire/server_stats.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/lib/libuv/include/stdint-msvc2008.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/lib/libuv/include/tree.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/lib/libuv/include/uv-bsd.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/lib/libuv/include/uv-darwin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/lib/libuv/include/uv-errno.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/lib/libuv/include/uv-linux.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/lib/libuv/include/uv-sunos.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/lib/libuv/include/uv-unix.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/lib/libuv/include/uv-version.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/lib/libuv/include/uv-win.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http/lib/libuv/include/uv.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../http/http.xcodeproj/xcuserdata/eacan.xcuserdatad/xcschemes/xcschememanagement.plist" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gods.xcodeproj/project.xcworkspace/xcuserdata/eacan.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/gods.xcodeproj/project.xcworkspace/xcuserdata/eacan.xcuserdatad/UserInterfaceState.xcuserstate" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../http-server/http-server.xcodeproj/project.xcworkspace/xcuserdata/eacan.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/../http-server/http-server.xcodeproj/project.xcworkspace/xcuserdata/eacan.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gods/libs/engine/system/GCircularQueue.h" afterPath="$PROJECT_DIR$/gods/libs/engine/system/GCircularQueue.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gods.xcodeproj/project.xcworkspace/xcshareddata/gods.xccheckout" afterPath="$PROJECT_DIR$/gods.xcodeproj/project.xcworkspace/xcshareddata/gods.xccheckout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gods/libs/engine/system/GMiniDump.h" afterPath="$PROJECT_DIR$/gods/libs/engine/system/GMiniDump.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gods/libs/engine/network/GPacket.h" afterPath="$PROJECT_DIR$/gods/libs/engine/network/GPacket.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gods/libs/engine/database/GSqlBase.h" afterPath="$PROJECT_DIR$/gods/libs/engine/database/GSqlBase.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gods.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/gods.xcodeproj/project.pbxproj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -45,19 +64,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GSqlBase.h" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gods/libs/engine/database/GSqlBase.h">
+      <file leaf-file-name="LPacket.h" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gods/libs/engine/shared/LPacket.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+            <state line="15" column="15" selection-start="196" selection-end="196" vertical-scroll-proportion="0.3052917" vertical-offset="0" max-vertical-offset="780">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GSqlBase.cpp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gods/libs/engine/database/GSqlBase.cpp">
+      <file leaf-file-name="LPacket.cpp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gods/libs/engine/shared/LPacket.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GPacket.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gods/libs/engine/network/GPacket.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="2" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="43" max-vertical-offset="840">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GErrorCodes.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GErrorCodes.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="49" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1185">
               <folding />
             </state>
           </provider>
@@ -66,65 +103,18 @@
       <file leaf-file-name="thread.h" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gods/libs/engine/thread/thread.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="39" selection-start="405" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="4815">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GQueue.h" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GQueue.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="5" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.0" vertical-offset="718" max-vertical-offset="1740">
+            <state line="21" column="39" selection-start="405" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="4905">
               <folding>
-                <element signature="e#164#180#0" expanded="true" />
+                <element signature="e#126#141#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GLinkList.h" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GLinkList.h">
+      <file leaf-file-name="GBaseType.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gods/libs/engine/GBaseType.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="21" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1515">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GLinkList.cpp" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GLinkList.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="5" selection-start="1479" selection-end="1479" vertical-scroll-proportion="0.7964722" vertical-offset="523" max-vertical-offset="1260">
-              <folding>
-                <element signature="e#119#148#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GMiniDump.cpp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GMiniDump.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gods/libs/engine/database/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GCircularQueue.h" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GCircularQueue.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="679" selection-end="679" vertical-scroll-proportion="0.0" vertical-offset="253" max-vertical-offset="1080">
+            <state line="40" column="0" selection-start="938" selection-end="938" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="720">
               <folding />
             </state>
           </provider>
@@ -148,23 +138,27 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/gods/libs/engine/logger/GLogger.h" />
-        <option value="$PROJECT_DIR$/gods/libs/engine/system/GMiniDump.h" />
-        <option value="$PROJECT_DIR$/gods/libs/engine/system/GSingleton.h" />
-        <option value="$PROJECT_DIR$/gods/libs/engine/network/GPacket.h" />
-        <option value="$PROJECT_DIR$/gods/libs/engine/system/GCircularQueue.h" />
-        <option value="$PROJECT_DIR$/gods/libs/engine/database/GSqlBase.h" />
-        <option value="$PROJECT_DIR$/gods/libs/engine/database/README.md" />
-        <option value="$PROJECT_DIR$/gods/libs/engine/system/GMutex.h" />
         <option value="$PROJECT_DIR$/gods/libs/engine/system/GQueue.cpp" />
         <option value="$PROJECT_DIR$/gods/libs/engine/system/GQueue.h" />
         <option value="$PROJECT_DIR$/gods/libs/engine/system/GLinkList.h" />
         <option value="$PROJECT_DIR$/gods/libs/engine/system/GLinkList.cpp" />
+        <option value="$PROJECT_DIR$/gods/libs/engine/system/GPairedMap.h" />
+        <option value="$PROJECT_DIR$/gods/libs/engine/system/GString.cpp" />
+        <option value="$PROJECT_DIR$/gods/libs/engine/database/GSqlBase.h" />
+        <option value="$PROJECT_DIR$/gods/libs/engine/system/GMemoryPool.h" />
+        <option value="$PROJECT_DIR$/gods/libs/engine/system/GException.h" />
+        <option value="$PROJECT_DIR$/gods/libs/engine/system/GMiniDump.h" />
+        <option value="$PROJECT_DIR$/gods/libs/engine/system/GErrorCodes.h" />
+        <option value="$PROJECT_DIR$/gods/libs/engine/system/GError.h" />
+        <option value="$PROJECT_DIR$/gods/libs/engine/system/GError.cpp" />
+        <option value="$PROJECT_DIR$/gods/libs/engine/GBaseType.h" />
+        <option value="$PROJECT_DIR$/gods/libs/engine/network/GPacket.h" />
+        <option value="$PROJECT_DIR$/gods/libs/engine/shared/LPacket.h" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="405" />
+    <option name="x" value="123" />
     <option name="y" value="22" />
     <option name="width" value="1400" />
     <option name="height" value="860" />
@@ -264,8 +258,30 @@
               <option name="myItemId" value="engine" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="thread" />
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gods" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gods" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="engine" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shared" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -291,29 +307,7 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="system" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gods" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gods" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="engine" />
+              <option name="myItemId" value="network" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -392,16 +386,21 @@
       <created>1401367855817</created>
       <updated>1401367855817</updated>
     </task>
+    <task id="LOCAL-00001" summary="base elements for advance">
+      <created>1401848180311</created>
+      <updated>1401848180311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="405" y="22" width="1400" height="860" extended-state="0" />
-    <editor active="true" />
+    <frame x="123" y="22" width="1400" height="860" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981844" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21931736" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -411,6 +410,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -423,122 +423,114 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="base elements for advance" />
+    <option name="LAST_COMMIT_MESSAGE" value="base elements for advance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gods/libs/engine/network/GPacket.cpp">
+    <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GLinkList.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="737">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GSingleton.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="290" selection-end="290" vertical-scroll-proportion="0.32380953" vertical-offset="0" max-vertical-offset="735" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gods/libs/engine/logger/GLogger.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="406">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gods/libs/engine/network/GPacket.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="672">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GCircularQueue.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="679" selection-end="679" vertical-scroll-proportion="0.0" vertical-offset="253" max-vertical-offset="1080">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gods/libs/engine/database/GSqlBase.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="737">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gods/libs/engine/database/GSqlBase.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gods/libs/engine/database/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="737">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GUtils.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="737">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GUtils.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="20" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gods/libs/engine/thread/thread.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="39" selection-start="405" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="4815">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/include/string.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="9" selection-start="3236" selection-end="3236" vertical-scroll-proportion="0.33242875" vertical-offset="790" max-vertical-offset="2850">
-          <folding />
-        </state>
+        <state line="146" column="36" selection-start="2887" selection-end="2887" vertical-scroll-proportion="0.34871098" vertical-offset="1933" max-vertical-offset="2670" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GQueue.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="5" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.0" vertical-offset="718" max-vertical-offset="1740">
-          <folding>
-            <element signature="e#164#180#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="71" column="5" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.47082767" vertical-offset="718" max-vertical-offset="1740" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GMiniDump.cpp">
+    <entry file="file://$PROJECT_DIR$/gods/libs/engine/database/GSqlBase.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="737">
+        <state line="97" column="8" selection-start="2356" selection-end="2356" vertical-scroll-proportion="0.936228" vertical-offset="765" max-vertical-offset="1740">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GLinkList.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="21" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1515">
+        <state line="26" column="21" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1515" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GString.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="14" selection-start="356" selection-end="356" vertical-scroll-proportion="0.38670284" vertical-offset="0" max-vertical-offset="737" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GException.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="5" selection-start="679" selection-end="679" vertical-scroll-proportion="0.5291723" vertical-offset="0" max-vertical-offset="737" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GMemoryPool.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="11" selection-start="1765" selection-end="1765" vertical-scroll-proportion="0.56987786" vertical-offset="855" max-vertical-offset="2610">
+          <folding>
+            <element signature="e#187#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GMiniDump.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="7" selection-start="246" selection-end="246" vertical-scroll-proportion="0.34599727" vertical-offset="0" max-vertical-offset="737" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gods/libs/engine/GBaseType.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="938" selection-end="938" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GLinkList.cpp">
+    <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GError.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="5" selection-start="1479" selection-end="1479" vertical-scroll-proportion="0.7964722" vertical-offset="523" max-vertical-offset="1260">
+        <state line="47" column="21" selection-start="996" selection-end="996" vertical-scroll-proportion="0.83717775" vertical-offset="88" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GError.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="395" selection-end="395" vertical-scroll-proportion="0.5088195" vertical-offset="0" max-vertical-offset="737">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gods/libs/engine/system/GErrorCodes.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="49" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gods/libs/engine/thread/thread.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="39" selection-start="405" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="4905">
           <folding>
-            <element signature="e#119#148#0" expanded="true" />
+            <element signature="e#126#141#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gods/libs/engine/network/GPacket.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="2" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="43" max-vertical-offset="840">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gods/libs/engine/shared/LPacket.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="737">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gods/libs/engine/shared/LPacket.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="15" selection-start="196" selection-end="196" vertical-scroll-proportion="0.3052917" vertical-offset="0" max-vertical-offset="780">
+          <folding />
         </state>
       </provider>
     </entry>

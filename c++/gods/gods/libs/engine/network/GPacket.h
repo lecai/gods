@@ -26,13 +26,21 @@ struct stPacketData{
 typedef stPacketData PACKETDATA,*LPPACKETDATA;
 
 const int PACKET_LIMIT_SIZE = 0x7FFF;//剔除加密的1个bit
-const int PACKET_HEAD_SIZE = (sizeof(PACKETHEADER));
+const int PACKET_HEAD_SIZE = sizeof(PACKETHEADER);
 const unsigned char PACKET_MAX_SEQUENCE = 0xFF ;
 const int PACKET_MAX_SIZE = 4096;  //常用最大数据包
 
 class GPacket {
 public:
+    GPacket();
+    GPacket(GPacket &rhs);
+    GPacket(unsigned char *pPackData, unsigned short pPackBodySize);
+    GPacket(unsigned short pPackBodySize);
+    GPacket(unsigned char *pAttachBuffer);
+
+    virtual ~GPacket();
 public:
+
 private:
 };
 
